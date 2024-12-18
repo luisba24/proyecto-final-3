@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/679123422567393079
+creation_time: 1734151461390
+experiment_id: '679123422567393079'
+last_update_time: 1734151461390
+lifecycle_stage: active
+name: Restaurant Predict Model

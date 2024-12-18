@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/679123422567393079/e602ce97a64741dd8a372558f6a15d4b/artifacts
+end_time: 1734206172678
+entry_point_name: ''
+experiment_id: '679123422567393079'
+lifecycle_stage: active
+run_id: e602ce97a64741dd8a372558f6a15d4b
+run_name: delightful-shark-681
+run_uuid: e602ce97a64741dd8a372558f6a15d4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734206099956
+status: 4
+tags: []
+user_id: Luis

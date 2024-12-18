@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/679123422567393079/812a3ccd67cf40d3a55b57b000defe4d/artifacts
+end_time: 1734209806217
+entry_point_name: ''
+experiment_id: '679123422567393079'
+lifecycle_stage: active
+run_id: 812a3ccd67cf40d3a55b57b000defe4d
+run_name: shivering-stork-472
+run_uuid: 812a3ccd67cf40d3a55b57b000defe4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734209730265
+status: 3
+tags: []
+user_id: Luis
